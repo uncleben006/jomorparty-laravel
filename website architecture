@@ -1,0 +1,12 @@
+index
+  - store_map
+    - store_info_list
+    - store_google_map
+    - store_info_update
+  - group
+  - blog
+  - member_info
+  - auth
+    - login
+    - register
+    - update_self_info
